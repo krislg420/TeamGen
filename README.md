@@ -22,3 +22,14 @@ so that I have quick access to emails and GitHub profiles
 https://github.com/krislg420/TeamGen
 ## Depolyed Link
 https://krislg420.github.io/TeamGen/
+
+
+## Passed Tests
+
+![3B9F9C92-1512-4788-9230-D5D7E0190442](https://user-images.githubusercontent.com/57952065/72952492-acdf8400-3d57-11ea-956c-de5820b93ec9.jpeg)
+
+
+## Example of Deployed site
+
+![2515E996-A097-4A91-9C45-7C01C482162C_1_105_c](https://user-images.githubusercontent.com/57952065/72952501-b2d56500-3d57-11ea-9fab-44ef9d5758ca.jpeg)
+
